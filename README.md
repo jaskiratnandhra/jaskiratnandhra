@@ -1,11 +1,19 @@
-# Hi, I'm Jaskirat Singh Nandhra 👋
+<div align="center">
 
-**Data Engineer — building reliable data & ML pipelines that deliver business impact**
+# Hi, I'm Jaskirat Singh Nandhra 👋  
 
-I turn messy, multi-source data into trustworthy pipelines and decision-ready dashboards.  
-My focus: **ingestion → modeling → orchestration → insights**.
+**Data Engineer | Driving Scalable Data & AI Solutions**  
 
-[LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/) • [GitHub](https://github.com/jaskiratnandhra) • 📧 jaskiratnandhra@gmail.com
+With 3+ years of experience designing and optimizing data pipelines, analytics systems, and cloud platforms to transform raw data into actionable insights.  
+Skilled at collaborating with cross-functional teams to translate complex technical challenges into scalable, business-ready solutions.  
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/-MY%20PORTFOLIO-purple?style=for-the-badge)](https://jaskiratsinghnandhra.my.canva.site/portfolio)
+[![LinkedIn](https://img.shields.io/badge/-JASKIRAT%20SINGH%20NANDHRA-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
+
+</div>
+
 
 
 ---
