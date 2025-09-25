@@ -9,6 +9,18 @@ My focus: **ingestion → modeling → orchestration → insights**.
 
 ---
 
+## 👨‍💻 About Me  
+
+- 🎓 Master’s in Computer Science from San Diego State University (GPA: 3.78/4.0)  
+- 💼 Data Engineer at Solar Turbines (Caterpillar), with past roles at Fluidra, SamTrans, and Lectrix EV  
+- 🔧 Experienced in building **ETL/ELT pipelines, data models, and analytics dashboards**  
+- ☁️ Skilled with **Snowflake, Matillion, dbt, AWS (SageMaker, Glue, Redshift, Lambda), Oracle, and MongoDB**  
+- 📊 Strong background in **Tableau & Power BI** for executive-level reporting  
+- 🤖 Worked on **ML projects** including predictive maintenance, NLP translation, and OCR automation  
+- 🌎 Passionate about **scalable data systems, cloud engineering, and AI-driven analytics**  
+- 📫 Reach me at **jaskiratnandhra@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)  
+
+
 ## 🚀 Selected Projects
 
 ### Data Engineering & Analytics
