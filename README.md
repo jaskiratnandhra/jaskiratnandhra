@@ -9,8 +9,8 @@ Skilled at collaborating with cross-functional teams to translate complex techni
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/-MY%20PORTFOLIO-purple?style=for-the-badge)](https://jaskiratsinghnandhra.my.canva.site/portfolio)
-[![LinkedIn](https://img.shields.io/badge/-JASKIRAT%20SINGH%20NANDHRA-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
+[![Portfolio](https://img.shields.io/badge/-MY%20PORTFOLIO-blue?style=for-the-badge)](https://jaskiratsinghnandhra.my.canva.site/portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
 
 </div>
 
