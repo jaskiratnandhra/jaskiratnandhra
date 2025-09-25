@@ -7,18 +7,19 @@ My focus: **ingestion → modeling → orchestration → insights**.
 
 [LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/) • [GitHub](https://github.com/jaskiratnandhra) • 📧 jaskiratnandhra@gmail.com
 
+
 ---
 
-## 👨‍💻 About Me  
+## ✨ About Me  
 
-- 🎓 Master’s in Computer Science from San Diego State University (GPA: 3.78/4.0)  
-- 💼 Data Engineer at Solar Turbines (Caterpillar), with past roles at Fluidra, SamTrans, and Lectrix EV  
-- 🔧 Experienced in building **ETL/ELT pipelines, data models, and analytics dashboards**  
-- ☁️ Skilled with **Snowflake, Matillion, dbt, AWS (SageMaker, Glue, Redshift, Lambda), Oracle, and MongoDB**  
-- 📊 Strong background in **Tableau & Power BI** for executive-level reporting  
-- 🤖 Worked on **ML projects** including predictive maintenance, NLP translation, and OCR automation  
-- 🌎 Passionate about **scalable data systems, cloud engineering, and AI-driven analytics**  
-- 📫 Reach me at **jaskiratnandhra@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)  
+- 🎓 **Educational Background:** M.S. in Computer Science (San Diego State University, GPA 3.78/4.0), B.Tech in Computer Science (SRM Institute, GPA 9.68/10.0).  
+- 🤝 **Team-Oriented:** Collaborative problem solver, knowledge-sharing, and project-driven.  
+- 🚀 **Specializations:** Data Engineering, ETL/ELT pipelines, Cloud Data Warehousing, Data Analytics, Machine Learning, Automation.  
+- 🛠 **Expertise:** Snowflake, Matillion, dbt, AWS (SageMaker, Glue, Redshift, Lambda), Oracle, SQL, Python, Tableau, Power BI, Kafka, MongoDB.  
+- 🌎 **Domain Experience:** Manufacturing, Energy, Transit, EV, SaaS, Retail, and Finance Analytics.  
+- 📫 **Contact:** jaskiratnandhra@gmail.com • [LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/) • [GitHub](https://github.com/jaskiratnandhra)  
+- ⚡ **Fun Fact:** I bridge technical data systems with business strategy — and I’m always exploring how to make pipelines faster, dashboards smarter, and ML more practical.  
+
 
 
 ## 🚀 Selected Projects
