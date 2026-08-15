@@ -6,7 +6,7 @@
 
 I build end-to-end data systems — from ingestion and orchestration to data modeling, analytics, and production-facing applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge)](https://jaskiratsinghnandhra.my.canva.site/portfolio)
+[![Portfolio](https://jaskirat-portfolio-beta.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
 
 </div>
@@ -143,7 +143,7 @@ with an emphasis on building data systems that are reliable enough for productio
 ## 📫 Connect
 
 * [LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
-* [Portfolio](https://jaskiratsinghnandhra.my.canva.site/portfolio)
+* [Portfolio]([https://jaskiratsinghnandhra.my.canva.site/portfolio](https://jaskirat-portfolio-beta.vercel.app/))
 * [GitHub](https://github.com/jaskiratnandhra)
 
 ---
