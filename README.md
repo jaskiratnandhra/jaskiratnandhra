@@ -1,70 +1,155 @@
 <div align="center">
 
-# Hi, I'm Jaskirat Singh Nandhra 👋  
+# Hi, I'm Jaskirat Singh Nandhra 👋
 
-**Data Engineer | Driving Scalable Data & AI Solutions**  
+### Data Engineer | Cloud Data Platforms • Analytics Engineering • Applied AI
 
-With 3+ years of experience designing and optimizing data pipelines, analytics systems, and cloud platforms to transform raw data into actionable insights.  
-Skilled at collaborating with cross-functional teams to translate complex technical challenges into scalable, business-ready solutions.  
+I build end-to-end data systems — from ingestion and orchestration to data modeling, analytics, and production-facing applications.
 
-<br>
-
-[![Portfolio](https://img.shields.io/badge/-MY%20PORTFOLIO-blue?style=for-the-badge)](https://jaskiratsinghnandhra.my.canva.site/portfolio)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-blue?style=for-the-badge)](https://jaskiratsinghnandhra.my.canva.site/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
 
 </div>
 
+---
 
+## 👨‍💻 About Me
+
+I'm a Data Engineer focused on building reliable, scalable, and analytics-ready data platforms.
+
+My work spans:
+
+* ⚙️ Batch and ETL/ELT data pipelines
+* 🌊 Lakehouse and cloud data architectures
+* 🔄 Workflow orchestration and data quality
+* 📊 Analytical data models and BI
+* ⚡ Real-time and streaming systems
+* 🤖 Data platforms that support ML and AI applications
+
+**Core technologies:** Python, SQL, Snowflake, AWS, Apache Airflow, Apache Spark, Apache Iceberg, DuckDB, Docker, Matillion, dbt, Kafka, Tableau, and Power BI.
 
 ---
 
-## ✨ About Me  
+# 🚀 Featured Projects
 
-- 🎓 **Educational Background:** M.S. in Computer Science (San Diego State University, GPA 3.78/4.0), B.Tech in Computer Science (SRM Institute, GPA 9.68/10.0).  
-- 🤝 **Team-Oriented:** Collaborative problem solver, knowledge-sharing, and project-driven.  
-- 🚀 **Specializations:** Data Engineering, ETL/ELT pipelines, Cloud Data Warehousing, Data Analytics, Machine Learning, Automation.  
-- 🛠 **Expertise:** Snowflake, Matillion, dbt, AWS (SageMaker, Glue, Redshift, Lambda), Oracle, SQL, Python, Tableau, Power BI, Kafka, MongoDB.  
-- 🌎 **Domain Experience:** Manufacturing, Energy, Transit, EV, SaaS, Retail, and Finance Analytics.  
-- 📫 **Contact:** jaskiratnandhra@gmail.com • [LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/) • [GitHub](https://github.com/jaskiratnandhra)  
-- ⚡ **Fun Fact:** I bridge technical data systems with business strategy — and I’m always exploring how to make pipelines faster, dashboards smarter, and ML more practical.  
+## 🏥 ClaimFlow — Healthcare Claims Intelligence Platform
 
+[**GitHub Repository →**](https://github.com/jaskiratnandhra/claimflow-healthcare-claims-intelligence)
+[**Live Application →**](https://claimflow-healthcare-claims-intelli.vercel.app)
 
+End-to-end healthcare claims engineering and payment-intelligence platform built using synthetic CMS claims data.
 
-## 🚀 Selected Projects
+* Processed **857K+ synthetic claim segments**
+* Orchestrated claims processing using **Apache Airflow**
+* Built automated **data-quality validation**
+* Designed a privacy-aware canonical claims model
+* Built analytical marts using **Parquet + DuckDB**
+* Implemented provider, payment, HCPCS, and peer-payment analytics
+* Benchmarked **759K+ claims** against comparable peer groups
+* Containerized the pipeline using **Docker**
+* Built and deployed an interactive **Next.js / React** application
 
-### Data Engineering & Analytics
-- **Predictive Maintenance (AWS SageMaker + Power BI)** — Built & deployed ML models to predict equipment failure, reducing downtime and surfacing insights in real-time dashboards.
-- **Labor Utilization (Oracle ➜ Snowflake ➜ Tableau)** — Modeled labor KPIs, automated refreshes, and delivered exec-ready dashboards for workforce optimization.
-- **“Corrections File” Re-allocation (6.3M+ txns / $1.8B)** — Designed a deterministic reconciliation pipeline with full lineage and controls.
-- **KPI Framework (250+ KPIs across Salesforce, Oracle, Snowflake)** — Standardized metric definitions, reduced reporting drift, and improved trust in analytics.
-
-### Streaming / Real-Time Systems
-- **Kafka → Hadoop → Elasticsearch/Redis** — Delivered sub-second dashboards by streaming events into fast search/caching layers.
-- **IoT Battery Analytics (MongoDB)** — Processed device telemetry, optimized queries, and enabled faster reporting of battery health metrics.
-
-### Automation & Apps
-- **Invoice OCR Pipeline** — Automated extraction of invoice data from PDFs into structured tables, saving hours of manual work.
-- **Oracle CRM → Power BI** — Created secure connectors and incremental refresh strategies with parameterized SQL & M queries.
+**Stack:** Python · Airflow · DuckDB · Parquet · Pandas · Docker · Next.js · React · TypeScript
 
 ---
 
-## 🛠 Tech Stack
-**Cloud/Orchestration:** AWS (S3, Glue, Lambda, SageMaker, Redshift, Athena), Matillion, dbt, Airflow  
-**Warehouses/DBs:** Snowflake, Oracle, Postgres, MySQL, MongoDB  
-**Data/ML:** Python, Pandas, scikit-learn, TensorFlow  
-**BI:** Tableau, Power BI  
-**Streaming:** Kafka, Hadoop, Elasticsearch, Redis  
+## 🧊 Multi-Source Integration → Apache Iceberg Lakehouse
+
+[**GitHub Repository →**](https://github.com/jaskiratnandhra/Multi-Source-Integration-to-Iceberg-Lakehouse-Marts)
+[**Live Demo →**](https://multi-source-integration-to-iceberg-lakehouse-marts.streamlit.app/)
+
+Designed an AWS lakehouse architecture integrating IoT telemetry, ERP operational data, and CRM datasets into analytics-ready marts.
+
+* Built **Stage → Silver → Gold** processing layers
+* Used **Apache Iceberg** for ACID tables and schema evolution
+* Designed incremental and idempotent processing patterns
+* Orchestrated workflows using **AWS Step Functions**
+* Used **AWS Glue / Spark** for transformations
+* Built conformed dimensions and analytical fact tables
+* Queried Gold marts using **Amazon Athena**
+
+**Stack:** AWS · Apache Iceberg · Glue · Spark · S3 · Athena · Step Functions · Streamlit
 
 ---
 
-## 📌 Spotlight
-- [Predictive Maintenance (AWS SageMaker + Power BI)](https://github.com/jaskiratnandhra/predictive-maintenance-aws-sagemaker)  
-- [Labor Utilization Pipeline](https://github.com/jaskiratnandhra/labor-utilization-pipeline)  
-- [Real-Time Analytics Stack](https://github.com/jaskiratnandhra/realtime-analytics-stack)  
-- [Invoice OCR Pipeline](https://github.com/jaskiratnandhra/invoice-ocr-pipeline)  
-- [Oracle → Power BI Connector Patterns](https://github.com/jaskiratnandhra/oracle-to-powerbi-connector-patterns)  
-- [KPI Metric Layer on Snowflake](https://github.com/jaskiratnandhra/kpi-metric-layer-snowflake)  
+## ⚡ Real-Time IoT Sensor Analytics
+
+[**GitHub Repository →**](https://github.com/jaskiratnandhra/IoT-Sensor-Real-Time-Streaming-Analytics)
+
+Built a real-time sensor analytics project demonstrating streaming-oriented data engineering patterns for IoT telemetry.
+
+**Focus:** Streaming Architecture · IoT Data · Python · Real-Time Analytics
 
 ---
 
-💡 *Currently exploring dbt best practices on Snowflake and cost-aware ELT patterns. Open to collaborations!*
+## 🥉🥈🥇 AWS Bronze / Silver / Gold Sensor Lakehouse
+
+[**GitHub Repository →**](https://github.com/jaskiratnandhra/Batch-Sensor-Upload-to-Bronze_Silver_Gold-Lakehouse-AWS)
+
+Designed a batch sensor ingestion workflow around the **Bronze → Silver → Gold** medallion architecture.
+
+**Focus:** AWS · Data Lakehouse · ETL · Data Modeling · Analytics
+
+---
+
+## 🧠 Azure Predictive Maintenance
+
+[**GitHub Repository →**](https://github.com/jaskiratnandhra/Microsoft-Azure-Predictive-Maintenance)
+
+Predictive-maintenance project exploring how machine-learning workflows can turn equipment telemetry into actionable maintenance intelligence.
+
+**Focus:** Azure · Machine Learning · Predictive Maintenance · Data Analytics
+
+---
+
+# 🛠 Tech Stack
+
+### Data Engineering
+
+`Python` `SQL` `Apache Airflow` `Apache Spark` `dbt` `Matillion`
+
+### Cloud & Lakehouse
+
+`AWS` `Snowflake` `Apache Iceberg` `Amazon S3` `AWS Glue` `Athena`
+
+### Databases & Analytics
+
+`DuckDB` `PostgreSQL` `MySQL` `MongoDB` `Oracle`
+
+### Streaming
+
+`Kafka` `IoT Data Pipelines`
+
+### Analytics & ML
+
+`Pandas` `scikit-learn` `SageMaker` `Tableau` `Power BI`
+
+### Engineering
+
+`Docker` `Git` `GitHub` `Streamlit` `Next.js`
+
+---
+
+# 🎯 What I'm Building
+
+I'm particularly interested in the intersection of:
+
+**Data Engineering + Cloud Platforms + Analytics + AI**
+
+with an emphasis on building data systems that are reliable enough for production and structured well enough to support downstream analytics, machine learning, and AI applications.
+
+---
+
+## 📫 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/-jaskirat-singh-nandhra/)
+* [Portfolio](https://jaskiratsinghnandhra.my.canva.site/portfolio)
+* [GitHub](https://github.com/jaskiratnandhra)
+
+---
+
+<div align="center">
+
+### Build reliable data. Make it useful. Turn it into decisions.
+
+</div>
